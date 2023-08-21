@@ -1,12 +1,12 @@
 {
-    "id": "io.supernova.flutter-svg-assets",
-    "name": "Flutter SVG Assets",
+    "id": "ch.tcs.mobile.flutter-svg-assets",
+    "name": "Flutter SVG Assets Exporter",
     "description": "Flutter SVG Asset Exporter",
-    "author": "Jiri Trecak",
-    "organization": "Supernova",
-    "homepage": "https://supernova.io",
+    "author": "Digital Services Mobile Team",
+    "organization": "TCS",
+    "homepage": "https://www.tcs.ch",
     "source_dir": "src",
-    "version": "1.2",
+    "version": "1.0.0",
     "usesBrands": true,
     "config": {
         "sources": "sources.json",
